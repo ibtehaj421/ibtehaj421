@@ -42,8 +42,8 @@ I'm a software engineer passionate about bridging the gap between scalable archi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtehaj421&show_icons=true&theme=radium&hide_border=true" alt="Ibtehaj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaj421&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ibtehaj421&show_icons=true&theme=radium&hide_border=true" alt="Ibtehaj's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibtehaj421&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
