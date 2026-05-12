@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ibtehaj
+
 
 ### 🚀 Full-Stack Developer | AI & Agentic Systems Engineer
 
