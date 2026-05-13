@@ -19,16 +19,6 @@ Full-stack developer and AI engineer specializing in the **architecture and depl
 
 ---
 
-## 💼 Professional Experience
-
-### **AI/ML Intern** | NASTP (National Aerospace Science & Technology Park)
-*June 2025 – August 2025 | Rawalpindi, Pakistan*
-
-- Worked on machine learning research projects focusing on computer vision and deep learning applications
-- Contributed to advanced aerospace-related AI initiatives
-
----
-
 ## 🛠️ Technical Skills
 
 <table>
@@ -141,14 +131,6 @@ Full-stack developer and AI engineer specializing in the **architecture and depl
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-*FAST National University of Computer & Emerging Sciences, Islamabad*  
-**2022 – 2026**
-
----
-
 ## 🌟 What I'm Working On
 
 - 🤖 **Agentic Workflows:** Architecting autonomous LLM agents for complex, domain-specific tasks
@@ -170,7 +152,7 @@ Full-stack developer and AI engineer specializing in the **architecture and depl
 
 <div align="center">
 
-### 💬 *"Building the future, one commit at a time"*
+### *"Building the future, one commit at a time"*
 
 ⭐️ From [ibtehaj421](https://github.com/ibtehaj421)
 
