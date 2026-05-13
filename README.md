@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Ibtehaj Haider
+# Ibtehaj Haider
 
 ### Full-Stack Developer | AI Engineer | Agentic Systems Architect
 
