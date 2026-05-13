@@ -111,22 +111,28 @@ Full-stack developer and AI engineer specializing in the **architecture and depl
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ibtehaj421&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaj421&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ibtehaj421&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaj421&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo-to-exclude" alt="Top Languages" height="180em" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtehaj421&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=ibtehaj421&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibtehaj421&theme=tokyonight" alt="Profile Summary" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibtehaj421&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibtehaj421&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibtehaj421&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
