@@ -81,7 +81,7 @@ Full-stack developer and AI engineer specializing in the **architecture and depl
 - Integrated **ElevenLabs** for text-to-speech synthesis and **Pollinations.ai/Pexels API** for dynamic visual asset retrieval and b-roll generation
 - Implemented **Wav2Lip** for accurate lip-syncing and leveraged **OpenCV/FFmpeg** for frame manipulation, compositing, and rendering high-quality output videos
 
-### 🏥 **ANAM-AI: Conversational Patient History Agent** | *2026*
+### 🏥 **Conversational Patient History Agent** | *2026*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 - Developed an AI clinical history-taking application to bridge communication gaps in healthcare settings through intelligent dialogue management
